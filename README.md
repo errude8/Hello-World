@@ -20,6 +20,9 @@ This is a sample description of a project
 </ul>
 
 <strong>Additional Documentation:<Strong>
-Sample text
+
+  Sample text
+
 <Strong>Versioning:<Strong>
-Sample text
+
+  Sample text
